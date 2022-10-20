@@ -1,6 +1,3 @@
 # scraper1
 
-This is a scraping script for thehackernews.com.
-
-
-Ypu are free to use and distribute the script as you wish.
+This is a python function that scrapes the site https://thehackernews.com
